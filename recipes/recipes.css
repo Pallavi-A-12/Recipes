@@ -1,0 +1,22 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height:normal;
+    margin:auto;
+    padding:10px;
+}
+h1 {
+    text-align: center;
+}
+figure{
+    height:auto;
+    width:auto;
+}
+button {
+    border-radius: 5px;
+    width:50px;
+    background-color:blue;
+    color:white; 
+}
+button a {
+    color:white;
+}
