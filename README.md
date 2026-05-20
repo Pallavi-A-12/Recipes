@@ -48,18 +48,22 @@ odin-recipes/
 │── README.md
 │
 └── recipes/
-    │── biryani.html
-    │── dosa.html
-    └── paneer-butter-masala.html
+    │── guttiVankaya.html
+    │── semiya.html
+    └── southernFriedCorn.html
+    |__tomatoDal.html
+    |__putharekulu.html
 ```
 
 ---
 
 ## 📖 Recipes Included
 
-- 🍛 Biryani
-- 🥞 Dosa
-- 🧈 Paneer Butter Masala
+-guttiVankaya
+-semiya
+-southernFriedCorn
+-tomatoDal
+-putharekulu
 
 ---
 
