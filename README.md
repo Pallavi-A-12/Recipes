@@ -37,6 +37,7 @@ This project is intentionally simple and focuses only on **HTML fundamentals**. 
 ## 🛠️ Technologies Used
 
 - **HTML5**
+- **CSS**
 
 ---
 
@@ -79,32 +80,6 @@ This project helped me practice:
 - Ordered and Unordered Lists
 - Folder Organization
 - Basic Website Navigation
-
----
-
-## 🖥️ How to Run the Project
-
-1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
-
-2. Open the project folder
-
-```bash
-cd odin-recipes
-```
-
-3. Open `index.html` in your browser.
-
----
-
-## 📸 Preview
-
-Home page of the Odin Recipes project with links to different recipe pages.
-
-*(You can add screenshots here later)*
 
 ---
 
